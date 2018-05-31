@@ -1,0 +1,79 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Icebox Todo",
+      "category": "Icebox"
+    },
+    {
+      "id": 2,
+      "todo": "Progress Todo",
+      "category": "Progress"
+    },
+    {
+      "id": 3,
+      "todo": "Completed Todo",
+      "category": "Completed"
+    },
+    {
+      "category": "Icebox",
+      "todo": "Random",
+      "id": 4
+    },
+    {
+      "category": "Icebox",
+      "todo": "Item 1",
+      "id": 5
+    },
+    {
+      "category": "Icebox",
+      "todo": "item1",
+      "id": 6
+    },
+    {
+      "category": "Progress",
+      "todo": "item2",
+      "id": 7
+    },
+    {
+      "category": "Completed",
+      "todo": "item3",
+      "id": 8
+    },
+    {
+      "category": "Icebox",
+      "todo": "das",
+      "id": 9
+    },
+    {
+      "category": "Icebox",
+      "todo": "fdsazf",
+      "id": 10
+    }
+  ],
+  "dummy": [
+    {}
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Data from local-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "Some Other Data",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
